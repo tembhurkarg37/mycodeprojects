@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Website Links</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Website Links</h1>
+    <ul>
+        <li><a href="https://www.example.com">Example Website</a></li>
+        <li><a href="https://www.google.com">Google</a></li>
+        <li><a href="https://www.github.com">GitHub</a></li>
+        <!-- You can add more links here -->
+    </ul>
+</body>
+</html>
