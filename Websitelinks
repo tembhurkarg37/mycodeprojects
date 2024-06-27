@@ -13,3 +13,62 @@
     </ul>
 </body>
 </html>
+==============================================================
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            padding: 20px;
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 20px auto;
+            width: 300px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        li {
+            border-bottom: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        li:last-child {
+            border-bottom: none;
+        }
+
+        a {
+            text-decoration: none;
+            color: #007bff;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Website Links</h1>
+    <ul>
+        <li><a href="https://www.example.com">Example Website</a></li>
+        <li><a href="https://www.google.com">Google</a></li>
+        <li><a href="https://www.github.com">GitHub</a></li>
+        <!-- You can add more links here -->
+    </ul>
+</body>
+</html>
